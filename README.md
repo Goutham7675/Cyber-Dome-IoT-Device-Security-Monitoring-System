@@ -97,7 +97,7 @@ Our **XGBoost model** delivers top-tier accuracy:
 ### 🏗 Running Locally
 1. **Clone the repo**:
    ```bash
-[git clone https://github.com/Goutham7675/Cyber_Dome.git](https://github.com/Goutham7675/Cyber-Dome-IoT-Device-Security-Monitoring-System.git)
+git clone https://github.com/Goutham7675/Cyber_Dome.git
 ```
 2. **Install dependencies**:
    ```bash
